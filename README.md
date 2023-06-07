@@ -13,13 +13,9 @@ Countries App es una aplicación que permite explorar información detallada de 
 
 Clona este repositorio en tu máquina local.
 
-Desde la terminal, ve a la carpeta "back" y ejecuta el comando npm install para instalar las dependencias del backend.
+Desde la terminal, ve a la carpeta raíz y ejecuta el comando npm install para instalar las dependencias del backend.
 
 Luego, ejecuta el comando npm start para levantar el servidor.
-
-En otra terminal, ve a la carpeta "front" y ejecuta el comando npm install para instalar las dependencias del frontend.
-
-Finalmente, ejecuta el comando npm start para levantar el proyecto de manera local.
 
 <h2>Estado del proyecto</h2>
 
