@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marytrini/Countries_PI.git"
+    "url": "git+https://github.com/marytrini/Countries_PI_Back.git"
   },
   "author": "María Salazar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marytrini/Countries_PI/issues"
+    "url": "https://github.com/marytrini/Countries_PI_Back/issues"
   },
-  "homepage": "https://github.com/marytrini/Countries_PI#readme",
+  "homepage": "https://github.com/marytrini/Countries_PI_Back#readme",
   "dependencies": {
     "axios": "^1.4.0",
     "body-parser": "^1.20.2",
