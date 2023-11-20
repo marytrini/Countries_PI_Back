@@ -8,4 +8,5 @@ const {
 router.get("/", getCountries);
 router.get("/:id", getCountriesById);
 
+
 module.exports = router;
