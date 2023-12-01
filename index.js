@@ -11,8 +11,9 @@ const initializeServer = async () => {
     // Syncing all the models at once.
     conn.sync({ force: false }).then(() => {
       console.log("DB connected to server :)");
-      server.listen(3001, () => {
-        console.log("%s listening at 3001"); // eslint-disable-line no-console
+      const PORT = 5000;
+      server.listen(PORT, () => {
+        console.log(`{server listening at port ${PORT}}`); // eslint-disable-line no-console
       });
     });
   } catch (error) {
